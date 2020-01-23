@@ -1,0 +1,9 @@
+C:\Users\Andreas\Desktop\VisualStudios Projects\VoiceRecognition\VoiceRecognition\bin\x64\Debug\VoiceRecognition.exe.config
+C:\Users\Andreas\Desktop\VisualStudios Projects\VoiceRecognition\VoiceRecognition\bin\x64\Debug\VoiceRecognition.exe
+C:\Users\Andreas\Desktop\VisualStudios Projects\VoiceRecognition\VoiceRecognition\bin\x64\Debug\VoiceRecognition.pdb
+C:\Users\Andreas\Desktop\VisualStudios Projects\VoiceRecognition\VoiceRecognition\bin\x64\Debug\Microsoft.Speech.dll
+C:\Users\Andreas\Desktop\VisualStudios Projects\VoiceRecognition\VoiceRecognition\obj\x64\Debug\VoiceRecognition.csprojAssemblyReference.cache
+C:\Users\Andreas\Desktop\VisualStudios Projects\VoiceRecognition\VoiceRecognition\obj\x64\Debug\VoiceRecognition.csproj.CoreCompileInputs.cache
+C:\Users\Andreas\Desktop\VisualStudios Projects\VoiceRecognition\VoiceRecognition\obj\x64\Debug\VoiceRecognition.csproj.CopyComplete
+C:\Users\Andreas\Desktop\VisualStudios Projects\VoiceRecognition\VoiceRecognition\obj\x64\Debug\VoiceRecognition.exe
+C:\Users\Andreas\Desktop\VisualStudios Projects\VoiceRecognition\VoiceRecognition\obj\x64\Debug\VoiceRecognition.pdb
